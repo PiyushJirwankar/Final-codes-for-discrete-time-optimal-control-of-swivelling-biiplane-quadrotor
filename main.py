@@ -1,7 +1,6 @@
 import numpy as np
 import scipy.optimize
 import matplotlib.pyplot as plt
-from RK4_project import RK4 as RK4
 
 EPS = np.MachAr().eps
 
